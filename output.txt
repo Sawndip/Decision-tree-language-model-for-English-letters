@@ -1,0 +1,553 @@
+27
+level is 9
+o, a, u, i, e,  , z, v, k, m, f, q, j, b, p, w, c, t, h, x, r, l, n, y, s, g, d, 
+level is 4
+o, a, u, i, e,  , 
+level is 8
+z, v, k, m, f, q, j, b, p, w, c, t, h, x, r, l, n, y, s, g, d, 
+level is 3
+o, a, u, i, e, 
+level is 0
+ , 
+level is 7
+z, v, k, m, f, q, j, b, p, w, c, t, h, 
+level is 4
+x, r, l, n, y, s, g, d, 
+level is 2
+o, a, u, i, 
+level is 0
+e, 
+level is 6
+z, v, k, m, f, q, j, b, p, w, c, t, 
+level is 0
+h, 
+level is 3
+x, r, l, n, 
+level is 2
+y, s, g, d, 
+level is 1
+o, a, 
+level is 1
+u, i, 
+level is 5
+z, v, k, m, f, q, j, b, p, 
+level is 2
+w, c, t, 
+level is 2
+x, r, l, 
+level is 0
+n, 
+level is 1
+y, s, 
+level is 1
+g, d, 
+level is 0
+o, 
+level is 0
+a, 
+level is 0
+u, 
+level is 0
+i, 
+level is 4
+z, v, k, m, f, 
+level is 3
+q, j, b, p, 
+level is 1
+w, c, 
+level is 0
+t, 
+level is 1
+x, r, 
+level is 0
+l, 
+level is 0
+y, 
+level is 0
+s, 
+level is 0
+g, 
+level is 0
+d, 
+level is 3
+z, v, k, m, 
+level is 0
+f, 
+level is 2
+q, j, b, 
+level is 0
+p, 
+level is 0
+w, 
+level is 0
+c, 
+level is 0
+x, 
+level is 0
+r, 
+level is 2
+z, v, k, 
+level is 0
+m, 
+level is 1
+q, j, 
+level is 0
+b, 
+level is 1
+z, v, 
+level is 0
+k, 
+level is 0
+q, 
+level is 0
+j, 
+level is 0
+z, 
+level is 0
+v, 
+o : 000000000
+a : 000010000
+u : 000100000
+i : 000110000
+e : 001000000
+  : 010000000
+z : 100000000
+v : 100000001
+k : 100000010
+m : 100000100
+f : 100001000
+q : 100010000
+j : 100010010
+b : 100010100
+p : 100011000
+w : 100100000
+c : 100101000
+t : 100110000
+h : 101000000
+x : 110000000
+r : 110001000
+l : 110010000
+n : 110100000
+y : 111000000
+s : 111010000
+g : 111100000
+d : 111110000
+30000 24000 6000 5000
+root entropy:4.12234
+dev sample: 23997
+total_dev_num_sample: 23997
+root cross entropy:4.11574
+left dev entropy: 4.05163,  left dev sample : 11711
+right dev entropy: 4.16505,  right dev sample: 12286
+left cross entropy: 4.01626
+right cross entropy: 4.16528
+left dev entropy: 4.06856,  left dev sample : 11711
+right dev entropy: 4.1199,  right dev sample: 12286
+left cross entropy: 4.06411
+right cross entropy: 4.09333
+left dev entropy: 4.25005,  left dev sample : 11712
+right dev entropy: 3.54983,  right dev sample: 12285
+left cross entropy: 4.26258
+right cross entropy: 3.48783
+greatest_reduction: 0.230758
+candidate left  entropy: 4.25005
+candidate right entropy: 3.54983
+candidate reduction: 0.253007
+new_node_list add new two nodes
+cur_questioned_bit:18
+frontier_node_list size: 0
+frontier_node_list size: 2
+new_node_list size: 0
+left dev entropy: 4.26333,  left dev sample : 5943
+right dev entropy: 4.20185,  right dev sample: 5769
+left cross entropy: 4.24883
+right cross entropy: 4.21458
+left dev entropy: 4.09142,  left dev sample : 3065
+right dev entropy: 4.2414,  right dev sample: 8647
+left cross entropy: 4.09119
+right cross entropy: 4.24152
+left dev entropy: 3.97648,  left dev sample : 7683
+right dev entropy: 4.09775,  right dev sample: 4029
+left cross entropy: 3.91455
+right cross entropy: 4.08481
+greatest_reduction: 0.113156
+candidate left  entropy: 3.97648
+candidate right entropy: 4.09775
+candidate reduction: 0.139057
+new_node_list add new two nodes
+cur_questioned_bit:19
+left dev entropy: 3.30108,  left dev sample : 5768
+right dev entropy: 3.70778,  right dev sample: 6517
+left cross entropy: 3.17505
+right cross entropy: 3.65656
+left dev entropy: 3.72479,  left dev sample : 8646
+right dev entropy: 2.87746,  right dev sample: 3639
+left cross entropy: 3.69891
+right cross entropy: 2.70441
+left dev entropy: 3.37111,  left dev sample : 5855
+right dev entropy: 3.40787,  right dev sample: 6430
+left cross entropy: 3.23305
+right cross entropy: 3.35678
+greatest_reduction: 0.0816449
+candidate left  entropy: 3.37111
+candidate right entropy: 3.40787
+candidate reduction: 0.0970338
+new_node_list add new two nodes
+cur_questioned_bit:19
+frontier_node_list size: 0
+frontier_node_list size: 4
+new_node_list size: 0
+left dev entropy: 4.06272,  left dev sample : 3997
+right dev entropy: 3.80829,  right dev sample: 3686
+left cross entropy: 4.01065
+right cross entropy: 3.71552
+left dev entropy: 3.48097,  left dev sample : 1946
+right dev entropy: 3.99961,  right dev sample: 5737
+left cross entropy: 3.45185
+right cross entropy: 3.92288
+left dev entropy: 3.99117,  left dev sample : 5160
+right dev entropy: 3.45436,  right dev sample: 2523
+left cross entropy: 3.9432
+right cross entropy: 3.36143
+greatest_reduction: 0.051735
+candidate left  entropy: 3.99117
+candidate right entropy: 3.45436
+candidate reduction: 0.051806
+new_node_list add new two nodes
+cur_questioned_bit:20
+left dev entropy: 4.0661,  left dev sample : 1946
+right dev entropy: 4.11239,  right dev sample: 2083
+left cross entropy: 3.93573
+right cross entropy: 4.12843
+left dev entropy: 4.19355,  left dev sample : 1119
+right dev entropy: 4.03775,  right dev sample: 2910
+left cross entropy: 4.13419
+right cross entropy: 4.02047
+left dev entropy: 4.09775,  left dev sample : 4029
+right dev entropy: 0,  right dev sample: 0
+left cross entropy: 4.08481
+right cross entropy: 0
+greatest_reduction: 0.00280856
+candidate left  entropy: 4.19355
+candidate right entropy: 4.03775
+candidate reduction: 0.0061825
+new_node_list add new two nodes
+cur_questioned_bit:9
+left dev entropy: 3.24825,  left dev sample : 2862
+right dev entropy: 3.37817,  right dev sample: 2993
+left cross entropy: 3.0591
+right cross entropy: 3.24486
+left dev entropy: 3.45722,  left dev sample : 3940
+right dev entropy: 2.9437,  right dev sample: 1915
+left cross entropy: 3.29256
+right cross entropy: 2.77109
+left dev entropy: 3.4564,  left dev sample : 4969
+right dev entropy: 2.35848,  right dev sample: 886
+left cross entropy: 3.32397
+right cross entropy: 2.1077
+greatest_reduction: 0.0199686
+candidate left  entropy: 3.45722
+candidate right entropy: 2.9437
+candidate reduction: 0.0239441
+new_node_list add new two nodes
+cur_questioned_bit:9
+left dev entropy: 3.10235,  left dev sample : 2906
+right dev entropy: 3.59053,  right dev sample: 3524
+left cross entropy: 3.03497
+right cross entropy: 3.50498
+left dev entropy: 3.57763,  left dev sample : 4706
+right dev entropy: 2.53599,  right dev sample: 1724
+left cross entropy: 3.55164
+right cross entropy: 2.4548
+left dev entropy: 3.64102,  left dev sample : 3587
+right dev entropy: 2.8673,  right dev sample: 2843
+left cross entropy: 3.56838
+right cross entropy: 2.84713
+greatest_reduction: 0.0293464
+candidate left  entropy: 3.57763
+candidate right entropy: 2.53599
+candidate reduction: 0.0322493
+new_node_list add new two nodes
+cur_questioned_bit:9
+frontier_node_list size: 0
+frontier_node_list size: 8
+new_node_list size: 0
+left dev entropy: 4.04536,  left dev sample : 2618
+right dev entropy: 3.82522,  right dev sample: 2542
+left cross entropy: 4.03716
+right cross entropy: 3.64987
+left dev entropy: 3.38315,  left dev sample : 1679
+right dev entropy: 4.06763,  right dev sample: 3481
+left cross entropy: 3.3295
+right cross entropy: 4.02269
+left dev entropy: 3.89151,  left dev sample : 3220
+right dev entropy: 3.72602,  right dev sample: 1940
+left cross entropy: 3.89626
+right cross entropy: 3.58783
+greatest_reduction: 0.0348099
+candidate left  entropy: 3.89151
+candidate right entropy: 3.72602
+candidate reduction: 0.0343554
+new_node_list add new two nodes
+cur_questioned_bit:21
+left dev entropy: 3.6322,  left dev sample : 1379
+right dev entropy: 3.12643,  right dev sample: 1144
+left cross entropy: 3.50649
+right cross entropy: 3.00838
+left dev entropy: 3.36058,  left dev sample : 267
+right dev entropy: 3.36994,  right dev sample: 2256
+left cross entropy: 3.44971
+right cross entropy: 3.27552
+left dev entropy: 3.45436,  left dev sample : 2523
+right dev entropy: 0,  right dev sample: 0
+left cross entropy: 3.36143
+right cross entropy: 0
+greatest_reduction: 0.00898
+candidate left  entropy: 3.36058
+candidate right entropy: 3.36994
+candidate reduction: 0.00748589
+new_node_list add new two nodes
+cur_questioned_bit:9
+left dev entropy: 4.20823,  left dev sample : 167
+right dev entropy: 4.14855,  right dev sample: 952
+left cross entropy: 3.46767
+right cross entropy: 4.08076
+left dev entropy: 4.19355,  left dev sample : 1119
+right dev entropy: 0,  right dev sample: 0
+left cross entropy: 4.13419
+right cross entropy: 0
+left dev entropy: 4.19355,  left dev sample : 1119
+right dev entropy: 0,  right dev sample: 0
+left cross entropy: 4.13419
+right cross entropy: 0
+greatest_reduction: 0.00168301
+candidate left  entropy: 4.20823
+candidate right entropy: 4.14855
+candidate reduction: 0.005068
+new_node_list add new two nodes
+cur_questioned_bit:0
+left dev entropy: 4.01598,  left dev sample : 1779
+right dev entropy: 4.05131,  right dev sample: 1131
+left cross entropy: 3.89167
+right cross entropy: 4.07182
+left dev entropy: 4.05554,  left dev sample : 758
+right dev entropy: 4.01968,  right dev sample: 2152
+left cross entropy: 3.70919
+right cross entropy: 4.05858
+left dev entropy: 4.03775,  left dev sample : 2910
+right dev entropy: 0,  right dev sample: 0
+left cross entropy: 4.02047
+right cross entropy: 0
+greatest_reduction: 0.00105869
+candidate left  entropy: 4.05554
+candidate right entropy: 4.01968
+candidate reduction: 0.00608591
+new_node_list add new two nodes
+cur_questioned_bit:10
+left dev entropy: 3.41938,  left dev sample : 1109
+right dev entropy: 3.38646,  right dev sample: 2831
+left cross entropy: 3.2225
+right cross entropy: 3.21866
+left dev entropy: 3.43359,  left dev sample : 1841
+right dev entropy: 2.81979,  right dev sample: 2099
+left cross entropy: 3.14326
+right cross entropy: 2.84768
+left dev entropy: 3.47373,  left dev sample : 3776
+right dev entropy: 2.17153,  right dev sample: 164
+left cross entropy: 3.30316
+right cross entropy: 2.20094
+greatest_reduction: 0.0575688
+candidate left  entropy: 3.43359
+candidate right entropy: 2.81979
+candidate reduction: 0.0539971
+new_node_list add new two nodes
+cur_questioned_bit:10
+left dev entropy: 2.94112,  left dev sample : 1753
+right dev entropy: 2.70252,  right dev sample: 162
+left cross entropy: 2.76161
+right cross entropy: 2.28422
+left dev entropy: 2.35502,  left dev sample : 1039
+right dev entropy: 3.31541,  right dev sample: 876
+left cross entropy: 2.23356
+right cross entropy: 3.02895
+left dev entropy: 3.13405,  left dev sample : 1193
+right dev entropy: 2.26472,  right dev sample: 722
+left cross entropy: 3.0165
+right cross entropy: 1.93928
+greatest_reduction: 0.0119192
+candidate left  entropy: 2.35502
+candidate right entropy: 3.31541
+candidate reduction: 0.0114069
+new_node_list add new two nodes
+cur_questioned_bit:10
+left dev entropy: 3.28669,  left dev sample : 1490
+right dev entropy: 3.65776,  right dev sample: 3216
+left cross entropy: 3.19423
+right cross entropy: 3.59005
+left dev entropy: 3.43086,  left dev sample : 3862
+right dev entropy: 2.79839,  right dev sample: 844
+left cross entropy: 3.38338
+right cross entropy: 2.81437
+left dev entropy: 3.60464,  left dev sample : 2935
+right dev entropy: 3.26944,  right dev sample: 1771
+left cross entropy: 3.47613
+right cross entropy: 3.32001
+greatest_reduction: 0.0510284
+candidate left  entropy: 3.43086
+candidate right entropy: 2.79839
+candidate reduction: 0.050189
+new_node_list add new two nodes
+cur_questioned_bit:10
+left dev entropy: 2.58339,  left dev sample : 1416
+right dev entropy: 2.19623,  right dev sample: 308
+left cross entropy: 2.54894
+right cross entropy: 1.57199
+left dev entropy: 2.5282,  left dev sample : 535
+right dev entropy: 2.44438,  right dev sample: 1189
+left cross entropy: 2.23685
+right cross entropy: 2.45154
+left dev entropy: 2.77767,  left dev sample : 652
+right dev entropy: 1.89653,  right dev sample: 1072
+left cross entropy: 2.70423
+right cross entropy: 1.67371
+greatest_reduction: 0.0219995
+candidate left  entropy: 2.77767
+candidate right entropy: 1.89653
+candidate reduction: 0.03205
+new_node_list add new two nodes
+cur_questioned_bit:20
+frontier_node_list size: 0
+frontier_node_list size: 16
+new_node_list size: 0
+left dev entropy: 3.8882,  left dev sample : 1624
+right dev entropy: 3.7485,  right dev sample: 1596
+left cross entropy: 3.913
+right cross entropy: 3.5626
+left dev entropy: 3.3771,  left dev sample : 1095
+right dev entropy: 3.8755,  right dev sample: 2125
+left cross entropy: 3.38813
+right cross entropy: 3.8862
+left dev entropy: 3.66991,  left dev sample : 1583
+right dev entropy: 3.74202,  right dev sample: 1637
+left cross entropy: 3.67763
+right cross entropy: 3.65751
+greatest_reduction: 0.0248907
+candidate left  entropy: 3.3771
+candidate right entropy: 3.8755
+candidate reduction: 0.0227912
+new_node_list add new two nodes
+cur_questioned_bit:9
+left dev entropy: 3.8065,  left dev sample : 994
+right dev entropy: 3.51901,  right dev sample: 946
+left cross entropy: 3.63431
+right cross entropy: 3.42697
+left dev entropy: 2.95206,  left dev sample : 584
+right dev entropy: 3.83885,  right dev sample: 1356
+left cross entropy: 2.87887
+right cross entropy: 3.67758
+left dev entropy: 3.45744,  left dev sample : 553
+right dev entropy: 3.63186,  right dev sample: 1387
+left cross entropy: 3.38043
+right cross entropy: 3.42755
+greatest_reduction: 0.0124594
+candidate left  entropy: 2.95206
+candidate right entropy: 3.83885
+candidate reduction: 0.0128092
+new_node_list add new two nodes
+cur_questioned_bit:9
+left dev entropy: 3.09304,  left dev sample : 41
+right dev entropy: 3.2804,  right dev sample: 226
+left cross entropy: 0.918296
+right cross entropy: 3.34833
+left dev entropy: 2.91611,  left dev sample : 149
+right dev entropy: 3.16163,  right dev sample: 118
+left cross entropy: 2.65656
+right cross entropy: 2.72472
+left dev entropy: 3.36058,  left dev sample : 267
+right dev entropy: 0,  right dev sample: 0
+left cross entropy: 3.44971
+right cross entropy: 0
+greatest_reduction: 0.00373798
+candidate left  entropy: 2.91611
+candidate right entropy: 3.16163
+candidate reduction: 0.00650648
+new_node_list add new two nodes
+cur_questioned_bit:10
+left dev entropy: 3.59712,  left dev sample : 1338
+right dev entropy: 2.86876,  right dev sample: 918
+left cross entropy: 3.485
+right cross entropy: 2.63468
+left dev entropy: 2.92437,  left dev sample : 1340
+right dev entropy: 3.7016,  right dev sample: 916
+left cross entropy: 2.79442
+right cross entropy: 3.50325
+left dev entropy: 3.36994,  left dev sample : 2256
+right dev entropy: 0,  right dev sample: 0
+left cross entropy: 3.27552
+right cross entropy: 0
+greatest_reduction: 0.0122204
+candidate left  entropy: 2.92437
+candidate right entropy: 3.7016
+candidate reduction: 0.017525
+new_node_list add new two nodes
+cur_questioned_bit:10
+left dev entropy: 3.83177,  left dev sample : 54
+right dev entropy: 3.929,  right dev sample: 113
+left cross entropy: 2.32193
+right cross entropy: 3.2433
+left dev entropy: 4.20823,  left dev sample : 167
+right dev entropy: 0,  right dev sample: 0
+left cross entropy: 3.46767
+right cross entropy: 0
+left dev entropy: 4.20823,  left dev sample : 167
+right dev entropy: 0,  right dev sample: 0
+left cross entropy: 3.46767
+right cross entropy: 0
+greatest_reduction: 0.00216204
+candidate left  entropy: 3.83177
+candidate right entropy: 3.929
+candidate reduction: 0.00177836
+cur_questioned_bit:1
+left dev entropy: 4.15777,  left dev sample : 703
+right dev entropy: 3.96764,  right dev sample: 249
+left cross entropy: 4.06483
+right cross entropy: 3.66527
+left dev entropy: 4.14855,  left dev sample : 952
+right dev entropy: 0,  right dev sample: 0
+left cross entropy: 4.08076
+right cross entropy: 0
+left dev entropy: 4.14855,  left dev sample : 952
+right dev entropy: 0,  right dev sample: 0
+left cross entropy: 4.08076
+right cross entropy: 0
+greatest_reduction: 0.00160719
+candidate left  entropy: 4.15777
+candidate right entropy: 3.96764
+candidate reduction: 0.00474709
+cur_questioned_bit:1
+left dev entropy: 4.00448,  left dev sample : 447
+right dev entropy: 4.05248,  right dev sample: 311
+left cross entropy: 2.84912
+right cross entropy: 3.92493
+left dev entropy: 4.05047,  left dev sample : 677
+right dev entropy: 3.90488,  right dev sample: 81
+left cross entropy: 3.65916
+right cross entropy: 3.46132
+left dev entropy: 4.05554,  left dev sample : 758
+right dev entropy: 0,  right dev sample: 0
+left cross entropy: 3.70919
+right cross entropy: 0
+greatest_reduction: 0.00099088
+candidate left  entropy: 4.00448
+candidate right entropy: 4.05248
+candidate reduction: 0.0109603
+new_node_list add new two nodes
+cur_questioned_bit:0
+left dev entropy: 3.99946,  left dev sample : 1332
+right dev entropy: 4.02435,  right dev sample: 820
+left cross entropy: 4.01192
+right cross entropy: 4.00112
+left dev entropy: 4.00675,  left dev sample : 820
+right dev entropy: 4.01368,  right dev sample: 1332
+left cross entropy: 3.9609
+right cross entropy: 4.04889
